@@ -2,4 +2,4 @@
 Vive VR + Youtube 360 video + tour application
 
 
-ReverseNomals Script, mesh 
+ReverseNomals Script, mesh 반전 script
